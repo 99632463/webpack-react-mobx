@@ -1,0 +1,10 @@
+node_modules/*
+dist/*
+build/*
+config/*
+dll/*
+static/*
+*.test.ts
+*.test.tsx
+*.d.ts
+*.js
